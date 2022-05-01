@@ -2,6 +2,8 @@
 
 A decision tree and a state machine will be implemented to play the gvgai Shase game. Furthermore, the results of the two AI will be compared.
 
+My implemented code is located in folder src/pablocaceres982/
+
 
 You can see my posts to see the evolution and the final result of the algorithms.
 
